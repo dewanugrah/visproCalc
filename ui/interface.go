@@ -73,7 +73,7 @@ func Start() {
 			result, _ := calculator.Power(num1, num2)
 			fmt.Printf("Result: %f\n", result)
 		case 6:
-			fmt.Println("Exiting the calculator. Goodbye!")
+			fmt.Println("! Terima kasih sudah menggunakan kalkulator !")
 			return
 		default:
 			fmt.Println("Invalid choice. Please enter a number between 1 and 6.")

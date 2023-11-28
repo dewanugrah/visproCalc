@@ -1,4 +1,4 @@
-package Mathops
+package mathops
 
 import (
 	"errors"
